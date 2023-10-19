@@ -6,7 +6,9 @@ Este es un proyecto Laravel que incluye un sistema de turnos generales que puede
 ### Vista previa del sistema de turnos
 
 - ![Turno 1](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-1.gif)
+- asdasd
 - ![Turno 2](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-2.gif)
+- asd
 - ![Turno 3](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-3.gif)
 
 
