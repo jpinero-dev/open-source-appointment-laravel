@@ -1,6 +1,6 @@
-# Proyecto Laravel
+Proyecto Laravel - Sistema de Turnos 
 
-Este es un proyecto Laravel que puedes descargar e instalar fácilmente en tu entorno de desarrollo local. A continuación, te guiaré a través de los pasos necesarios para configurar y ejecutar el proyecto.
+Este es un proyecto Laravel que incluye un sistema de turnos generales que puedes descargar e instalar fácilmente en tu entorno de desarrollo local. A continuación, te guiaré a través de los pasos necesarios para configurar y ejecutar el proyecto, incluyendo el sistema de turnos generales.
 
 ## Requisitos
 
