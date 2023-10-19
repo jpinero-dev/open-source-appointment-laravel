@@ -10,8 +10,6 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en t
 - Composer (https://getcomposer.org/)
 - Laravel CLI (https://laravel.com/docs/8.x/installation)
 
-## Pasos para la instalación
-
 **Clonar el repositorio**:
 
 Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio desde GitHub:
