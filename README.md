@@ -54,9 +54,10 @@ php artisan migrate
 
 Opcionalmente, puedes poblar la base de datos con datos de ejemplo ejecutando el siguiente comando:
 
+```bash
 php artisan db:seed
+```
+El usuario administrador predeterminado tiene las siguientes credenciales:
 
-El usuario administrador predeterminado será:
-
-'email' => 'admin@argon.com',
-'password' => bcrypt('secret')
+- **Email:** admin@argon.com
+- **Contraseña:** secret
