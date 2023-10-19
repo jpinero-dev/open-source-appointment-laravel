@@ -2,6 +2,11 @@
 
 Este es un proyecto Laravel que incluye un sistema de turnos generales que puedes descargar e instalar fácilmente en tu entorno de desarrollo local. A continuación, te guiaré a través de los pasos necesarios para configurar y ejecutar el proyecto, incluyendo el sistema de turnos generales.
 
+
+![Vista previa del sistema de turnos](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-2.gif)
+
+![Vista previa del sistema de turnos](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-3.gif)
+
 ![Vista previa del sistema de turnos](https://raw.githubusercontent.com/jpinero-dev/open-source-appointment-laravel/master/imagenes/turnos-1.gif)
 
 
