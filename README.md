@@ -20,7 +20,9 @@ git clone https://github.com/jpinero-dev/open-source-appointment-laravel.git
 
 Navega hasta el directorio de tu proyecto y ejecuta el siguiente comando para instalar las dependencias de PHP con Composer:
 
+```bash
 composer install
+```
 
 **Configurar el archivo `.env`**:
 
@@ -30,20 +32,24 @@ Haz una copia del archivo `.env.example` y nómbrala como `.env`. Abre el archiv
 
 Ejecuta el siguiente comando para generar una clave de aplicación:
 
+```bash
 php artisan key:generate
+```
 
 **Cache de Configuración**:
 
 Para mejorar el rendimiento, genera una caché de configuración con el siguiente comando:
-
+```bash
 php artisan config:cache
+```
 
 **Ejecutar Migraciones**:
 
 Ejecuta las migraciones para crear las tablas de la base de datos:
 
+```bash
 php artisan migrate
-
+```
 **Poblar la base de datos**:
 
 Opcionalmente, puedes poblar la base de datos con datos de ejemplo ejecutando el siguiente comando:
