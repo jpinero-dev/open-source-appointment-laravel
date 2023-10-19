@@ -14,7 +14,9 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos en t
 
 Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio desde GitHub:
 
+```bash
 git clone https://github.com/jpinero-dev/open-source-appointment-laravel.git
+```
 
 **Instalar dependencias**:
 
